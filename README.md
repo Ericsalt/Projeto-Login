@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Se você encontrar problemas ou desejar melhora
 
 Se tiver alguma dúvida ou sugestão sobre este projeto, entre em contato:
 
-[Eric](mailto:Salgadoeric7t@gmail.com)
+[Eric Salgado Pereira](mailto:Salgadoeric7t@gmail.com)
 
 ## Licença
 
